@@ -5,12 +5,6 @@ Storm Kafka Integration - Framework to monitor Geo Distributed servers that publ
 
 This project was based in a setup with 5 nodes. Three of them with Apache Cassandra and the CassandraMonitor running, one running the Apache Kafka and the last one running the Apache Storm.
 
-The diagram of the project is as follow:
-                            ______________
-[Cassandra + Monitor]----> |              |
-                           |              | 
-[Cassandra + Monitor]----> | Apache Kafka |-------> [Apache Storm]
-                           |              |   
-[Cassandra + Monitor]----> |_____________ |
+
 
 
