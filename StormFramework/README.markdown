@@ -1,4 +1,6 @@
-# This topology was inspired and built upon the work of the developers of the project "storm-kafka-stater" and the project "kafka-storm-starter", from Nathan Marz (https://github.com/nathanmarz) and Michael G Noll (https://github.com/miguno) respectivelly.
+# Credits
+This topology was inspired and built upon the work of the developers of the project "storm-kafka-stater" and the project "kafka-storm-starter", from Nathan Marz (https://github.com/nathanmarz) and Michael G Noll (https://github.com/miguno) respectivelly.
+
 
 ## Starting Kafka
 
