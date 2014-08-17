@@ -94,7 +94,7 @@ public class KafkaTopology {
         String spoutId = topic + CONFIG_FILE.kafkaSpoutName;
         String parserId = topic + CONFIG_FILE.kafkaMessageParserBoltName;
         String counterId = topic + CONFIG_FILE.rollingCountBoltName;
-        String preliminaryRankerId = topic + CONFIG_FILE.combinerBoltName;
+        //String preliminaryRankerId = topic + CONFIG_FILE.combinerBoltName;
         String topicRankerId = topic + CONFIG_FILE.topicRankerBoltName;
         
         //Kafka Spout Config
